@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(dotnet add:*)",
-      "Bash(dotnet build)"
+      "Bash(dotnet build)",
+      "Read(/C:\\Users\\Usurio\\source\\repos\\AI.Calc\\AI.Calc.Tests/**)",
+      "Read(/C:\\Users\\Usurio\\source\\repos\\AI.Calc\\AI.Calc.Tests/**)",
+      "Bash(dotnet test:*)"
     ],
     "deny": [],
     "ask": []
